@@ -1,4 +1,8 @@
 #.gitignore
 
+.vscode
 
-README-secundary.md
+#mds alternativos...
+README-secondary.md
+README-tertiary.md
+README-quaternary.md
