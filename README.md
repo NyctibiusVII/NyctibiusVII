@@ -5,29 +5,30 @@
 <!-- SOBRE MIM -->
 - 🌱 I am currently studying in [Rocketseat](https://github.com/Rocketseat) about JS e SQL
 
-- 👯 I’m looking to collaborate on web projects
+- 👨🏻‍💻 I’m looking to collaborate on web projects
 
 - 🤔 I’m looking for help with SQL and remote servers
 
 - 💬 Ask me about **JAVA, HTML, CSS**
 
-- 📫 How to reach me **matheus.dev.07@gmail.com**
+- ✉ How to reach me **matheus.dev.07@gmail.com**
 
 - ⚡ Fun fact **Oneye 😜**
 
 <!-- TECNOLOGIAS -->
-<p align="left">
+<p align="left">&nbsp;
     <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="20" height="20"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
 </p>
+<br>
 
 <!-- API | MYGITHUB -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NyctibiusVII&show_icons=true&custom_title=Matheus%20Vidigal's%20GitHub%20Stats&title_color=ff3108&text_color=fd5634&icon_color=f74716&bg_color=f5f5f5&hide_border=false&count_private=true&" alt="My GitHub stats"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyctibiusVII&title_color=ff3108&text_color=fd5634&icon_color=f74716&bg_color=f5f5f5&hide_border=false&line_height=9&layout=compact" alt="Linguagens de programação mais usadas"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=NyctibiusVII&show_icons=true&custom_title=🦊%20Matheus%20Vidigal's%20GitHub%20Stats&title_color=ff3108&text_color=fd5634&icon_color=f74716&bg_color=fbfbfb&hide_border=false&count_private=true&" alt="My GitHub stats"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyctibiusVII&custom_title=👾%20Most%20Used%20Languages&title_color=6651ab&text_color=6651ab&icon_color=f74716&bg_color=fbfbfb&hide_border=false&line_height=9&layout=compact" alt="Linguagens de programação mais usadas"/>
 </p>
 
 <!-- REDES SOCIAIS -->
