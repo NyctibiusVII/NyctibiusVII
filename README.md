@@ -15,21 +15,19 @@
 
 - ⚡ Fun fact i'm a big fan of One Piece
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-
 <!-- TECNOLOGIAS -->
 <p align="left">&nbsp;
-    <i class="devicon-android-plain colored"></i>&nbsp;
-    <i class="devicon-java-plain colored"></i>&nbsp;
-    <i class="devicon-html5-plain colored"></i>&nbsp;
-    <i class="devicon-css3-plain colored"></i>&nbsp;
-    <i class="devicon-javascript-plain colored"></i>&nbsp;
-    <i class="devicon-nodejs-plain colored"></i>&nbsp;
-    <i class="devicon-cplusplus-plain colored"></i>&nbsp;
-    <i class="devicon-handlebars-plain colored"></i>&nbsp;
-    <i class="devicon-devicon-plain colored"></i>&nbsp;
-    <i class="devicon-gitlab-plain colored"></i>&nbsp;
-    <i class="devicon-photoshop-plain colored"></i>&nbsp;
+    <img src=".github/tecSvg/android.svg" alt="android" height="16" width="16"/>&nbsp;
+    <img src=".github/tecSvg/java.svg" alt="java" height="16" width="16"/>&nbsp;
+    <img src=".github/tecSvg/html5.svg" alt="html5" height="16" width="16"/>&nbsp;
+    <img src=".github/tecSvg/css3.svg" alt="css3" height="16" width="16"/>&nbsp;
+    <img src=".github/tecSvg/javascript.svg" alt="javascript" height="16" width="16"/>&nbsp;
+    <img src=".github/tecSvg/node.svg" alt="node" height="16" width="16"/>&nbsp;
+    <img src=".github/tecSvg/cPlusPlus.svg" alt="cPlusPlus" height="16" width="16"/>&nbsp;
+    <img src=".github/tecSvg/handlebars.svg" alt="handlebars" height="16" width="16"/>&nbsp;
+    <img src="https://icongr.am/devicon/devicon-plain.svg?size=16&color=currentColor" alt="devicon" height="16" width="16"/>&nbsp;
+    <img src="https://icongr.am/devicon/gitlab-original.svg?size=16&color=currentColor" alt="gitlab" height="16" width="16"/>&nbsp;
+    <img src="https://icongr.am/devicon/photoshop-plain.svg?size=16&color=4d91ff" alt="photoshop" height="16" width="16"/>&nbsp;
     <!-- https://devicon.dev/ -->
 </p>
 <br>
