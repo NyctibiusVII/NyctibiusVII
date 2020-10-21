@@ -3,6 +3,10 @@
 #config. pessoal
 .vscode
 
+#node modules
+node_modules/
+package-lock.json
+
 #mds alternativos...
 README-secondary.md
 README-tertiary.md
