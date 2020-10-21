@@ -16,7 +16,7 @@
 - ⚡ Fun fact i'm a big fan of One Piece
 
 <!-- TECNOLOGIAS -->
-<p align="left">&nbsp;
+<p align="left"><br>&nbsp;
     <img src=".github/tecSvg/android.svg" alt="android" height="16" width="16"/>&nbsp;
     <img src=".github/tecSvg/java.svg" alt="java" height="16" width="16"/>&nbsp;
     <img src=".github/tecSvg/html5.svg" alt="html5" height="16" width="16"/>&nbsp;
@@ -34,8 +34,8 @@
 
 <!-- API | MYGITHUB -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NyctibiusVII&show_icons=true&custom_title=🦊%20Matheus%20Vidigal's%20GitHub%20Stats&title_color=ff441e&text_color=fd5634&icon_color=f74716&bg_color=282a36&hide_border=true&count_private=true&hide=issues" alt="My GitHub stats"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyctibiusVII&custom_title=🍧%20Most%20Used%20Languages&title_color=ff79c6&text_color=ff79c6&icon_color=f74716&bg_color=282a36&hide_border=true&line_height=9&layout=compact" alt="Linguagens de programação mais usadas"/>
+    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=NyctibiusVII&show_icons=true&custom_title=🦊%20Matheus%20Vidigal's%20GitHub%20Stats&title_color=ff441e&text_color=fd5634&icon_color=f74716&bg_color=282a36&hide_border=true&count_private=true&hide=issues" alt="My GitHub stats"/> 
+    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyctibiusVII&custom_title=🍧%20Most%20Used%20Languages&title_color=ff79c6&text_color=ff79c6&icon_color=f74716&bg_color=282a36&hide_border=true&line_height=9&layout=compact" alt="Linguagens de programação mais usadas"/>
 </p>
 <!-- #282a36 | fbfbfb 
      #ff79c6 | 6651ab 
@@ -46,6 +46,8 @@
 <p align="center"> 
     <img src="https://github-profile-trophy.vercel.app/?username=NyctibiusVII&theme=dracula&margin-w=7" alt="NyctibiusVII's points" /> 
 </p>
+
+---
 
 <!-- REDES SOCIAIS -->
 <p align="center">
