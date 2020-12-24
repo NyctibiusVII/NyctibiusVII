@@ -1,24 +1,23 @@
 <!-- APRESENTAÇÃO GIF -->
-<div align="center">
-    <img src=".github/MatheusVidigal-ApresentaçãoGIF.gif" alt="Hi" height="300"/>
-</div>
-
-<br><br><!--spacing-2x-->
+<img align="left" src=".github/MatheusVidigal-ApresentaçãoGIF.gif" alt="Hi"  width="50%"/>
 
 <!-- APRESENTAÇÃO -->
-<h1 align="center">Hi, nice to meet you<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' alt="Mascote Github" height="50"></h1>
-<p align="center">Welcome to my page!<br>
-I'm Matheus Vidigal, front-end developer, currently 18 <br> years old and passionate about programming 🧡</p>
+<h1 align="right">Hi, nice to meet you
+    <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' alt="Mascote Github" height="50">
+</h1>
+<p align="right">Welcome to my page!
+    <br>
+    I'm Matheus Vidigal, front-end developer, currently 18 years old and passionate about programming 🧡
+</p>
 
-<br><!--spacing-->
+
+<br><br><br><!--spacing-3x-->
 
 <!-- FOCO... -->
 <h3 align="left">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    A beginner developer focused on web / mobile
+    A Beginner Developer Focused On Web / Mobile
 </h3>
-
-<br><!--spacing-->
 
 <!-- SOBRE MIM -->
 - 🌱 I am currently studying JS and CSS at [Rocketseat](https://app.rocketseat.com.br/me/matheus-vidigal-nyctibius) and [Digital Innovation One](https://web.digitalinnovation.one/users/matheus_dev_07?tab=achievements)
