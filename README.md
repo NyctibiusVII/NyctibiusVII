@@ -1,61 +1,94 @@
 <!-- APRESENTAÇÃO -->
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Matheus Vidigal<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"></h1>
+<h1 align="center">Hi, nice to meet you<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"></h1>
+<p>Welcome to my page!<br>
+I'm Matheus Vidigal, front-end developer, currently 18 years old and passionate about programming 🧡</p>
+
+<br><!--spacing-->
+
+<!-- APRESENTAÇÃO GIF -->
+<img src=".github/MatheusVidigal-ApresentaçãoGIF.gif" alt="Hi"/>
+
+<br><br><!--spacing-2x-->
+
+<!-- FOCO... -->
 <h3 align="center">A beginner developer focused on web / mobile</h3>
 
+<br><!--spacing-->
+
 <!-- SOBRE MIM -->
-- 🌱 I am currently studying in [Rocketseat](https://github.com/Rocketseat) about JS e SQL
+- 🌱 I am currently studying JS and CSS at [Rocketseat](https://app.rocketseat.com.br/me/matheus-vidigal-nyctibius) and [Digital Innovation One](https://web.digitalinnovation.one/users/matheus_dev_07?tab=achievements)
 
 - 👨🏻‍💻 I’m looking to collaborate on web projects
 
 - 🤔 I’m looking for help with SQL and remote servers
 
-- 💬 Ask me about **JAVA, HTML, CSS**
-
 - ✉ How to reach me **matheus.dev.07@gmail.com**
 
 - ⚡ Fun fact i'm a big fan of One Piece
 
+<br><!--spacing-->
+
 <!-- TECNOLOGIAS -->
-<p align="left"><br>&nbsp;
-    <img src=".github/tecSvg/android.svg" alt="android" height="16" width="16"/>&nbsp;
-    <img src=".github/tecSvg/java.svg" alt="java" height="16" width="16"/>&nbsp;
-    <img src=".github/tecSvg/html5.svg" alt="html5" height="16" width="16"/>&nbsp;
-    <img src=".github/tecSvg/css3.svg" alt="css3" height="16" width="16"/>&nbsp;
-    <img src=".github/tecSvg/javascript.svg" alt="javascript" height="16" width="16"/>&nbsp;
-    <img src=".github/tecSvg/node.svg" alt="node" height="16" width="16"/>&nbsp;
-    <img src=".github/tecSvg/cPlusPlus.svg" alt="cPlusPlus" height="16" width="16"/>&nbsp;
-    <img src=".github/tecSvg/handlebars.svg" alt="handlebars" height="16" width="16"/>&nbsp;
-    <img src="https://icongr.am/devicon/devicon-plain.svg?size=16&color=currentColor" alt="devicon" height="16" width="16"/>&nbsp;
-    <img src="https://icongr.am/devicon/gitlab-original.svg?size=16&color=currentColor" alt="gitlab" height="16" width="16"/>&nbsp;
-    <img src="https://icongr.am/devicon/photoshop-plain.svg?size=16&color=4d91ff" alt="photoshop" height="16" width="16"/>&nbsp;
+<h3 align="center">My Development Stack</h3>
+<p align="center"><br>&nbsp;
+    <code><img src=".github/tecSvg/android.svg"   alt="Android"   height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/java.svg"      alt="Java"      height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/cPlusPlus.svg" alt="cPlusPlus" height="16"/></code>&nbsp;
+    |&nbsp;
+    <code><img src=".github/tecSvg/html5.svg" alt="Html5" height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/css3.svg"  alt="Css3"  height="16"/></code>&nbsp;
+    <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="16"/></code>&nbsp;
+    |&nbsp;
+    <code><img src=".github/tecSvg/javascript.svg" alt="Javascript" height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/node.svg"       alt="Node"       height="16"/></code>&nbsp;
+    |&nbsp;
+    <code><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png"           alt="GitHub" height="16"/></code>&nbsp;
+    <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="16"/></code>&nbsp;
+    <code><img src="https://icongr.am/devicon/gitlab-original.svg?size=16&color=currentColor" alt="Gitlab" height="16"/></code>&nbsp;
+    |&nbsp;
+    <code><img src=".github/tecSvg/handlebars.svg" alt="handlebars" height="16" width="16"/></code>&nbsp;
+    <code><img src="https://icongr.am/devicon/devicon-plain.svg?size=16&color=currentColor" alt="Devicon"   height="16"/></code>&nbsp;
+    <code><img src="https://icongr.am/devicon/photoshop-plain.svg?size=16&color=4d91ff"     alt="Photoshop" height="16"/></code>&nbsp;
+    <code><img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png"        alt="Trello"    height="16"/></code>&nbsp;
     <!-- https://devicon.dev/ -->
 </p>
-<br>
+
+<br><!--spacing-->
 
 <!-- API | MYGITHUB -->
 <p align="center">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=NyctibiusVII&show_icons=true&custom_title=🦊%20Matheus%20Vidigal's%20GitHub%20Stats&title_color=ff441e&text_color=fd5634&icon_color=f74716&bg_color=282a36&hide_border=true&count_private=true&hide=issues" alt="My GitHub stats"/> 
+    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=NyctibiusVII&show_icons=true&custom_title=🦊%20Matheus%20Vidigal's%20GitHub%20Stats&title_color=ff441e&text_color=fd5634&icon_color=f74716&bg_color=282a36&hide_border=true&count_private=true&hide=issues" alt="My GitHub stats"/>
     <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyctibiusVII&custom_title=🍧%20Most%20Used%20Languages&title_color=ff79c6&text_color=ff79c6&icon_color=f74716&bg_color=282a36&hide_border=true&line_height=9&layout=compact" alt="Linguagens de programação mais usadas"/>
 </p>
-<!-- #282a36 | fbfbfb 
-     #ff79c6 | 6651ab 
+<!-- #282a36 | fbfbfb
+     #ff79c6 | 6651ab
      #ff441e | ff3108 -->
 
 
 <!-- API | POINTS -->
-<p align="center"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=NyctibiusVII&theme=dracula&margin-w=7" alt="NyctibiusVII's points" /> 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=NyctibiusVII&theme=dracula&margin-w=7&hide_border=true" alt="NyctibiusVII's points"/>
 </p>
 
 ---
 
 <!-- REDES SOCIAIS -->
 <p align="center">
-    <a href="https://twitter.com/NyctibiusVII" target="blank"><img align="center" src=".github/twitter.svg" alt="NyctibiusVII/Twitter" height="20" width="20" /></a>
-    <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii/" target="blank"><img align="center" src=".github/linkedin.svg" alt="NyctibiusVII/Linkedin" height="20" width="20" /></a>
-    <a href="https://pt.stackoverflow.com/users/155001/matheus-vidigal" target="blank"><img align="center" src=".github/stack-overflow.svg" height="20" width="20" /></a>
-    <a href="https://www.instagram.com/nyctibius_vii/" target="blank"><img align="center" src=".github/instagram.svg" alt="NyctibiusVII/Instagram" height="20" width="20" /></a>
-    <a href="https://discord.gg/DMuCj2s" target="blank"><img align="center" src=".github/discord.svg" alt="NyctibiusVII/Discord" height="20" width="20" /></a>
+    <a href="https://twitter.com/NyctibiusVII" target="blank">
+        <img src=".github/twitter.svg" alt="Twitter" height="20"/>
+    </a>
+    <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii/" target="blank">
+        <img src=".github/linkedin.svg" alt="Linkedin" height="20"/>
+    </a>
+    <a href="https://pt.stackoverflow.com/users/155001/matheus-vidigal" target="blank">
+        <img src=".github/stack-overflow.svg" alt="StackOverflow" height="20"/>
+    </a>
+    <a href="https://www.instagram.com/nyctibius_vii/" target="blank">
+        <img src=".github/instagram.svg" alt="Instagram" height="20"/>
+    </a>
+    <a href="https://discord.gg/DMuCj2s" target="blank">
+        <img src=".github/discord.svg" alt="Discord" height="20"/>
+    </a>
 </p>
 
 <!--
