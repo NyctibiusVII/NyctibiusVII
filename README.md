@@ -1,17 +1,22 @@
-<!-- APRESENTAÇÃO -->
-<h1 align="center">Hi, nice to meet you<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"></h1>
-<p>Welcome to my page!<br>
-I'm Matheus Vidigal, front-end developer, currently 18 years old and passionate about programming 🧡</p>
-
-<br><!--spacing-->
-
 <!-- APRESENTAÇÃO GIF -->
-<img src=".github/MatheusVidigal-ApresentaçãoGIF.gif" alt="Hi"/>
+<div align="center">
+    <img src=".github/MatheusVidigal-ApresentaçãoGIF.gif" alt="Hi" height="300"/>
+</div>
 
 <br><br><!--spacing-2x-->
 
+<!-- APRESENTAÇÃO -->
+<h1 align="center">Hi, nice to meet you<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' alt="Mascote Github" height="50"></h1>
+<p align="center">Welcome to my page!<br>
+I'm Matheus Vidigal, front-end developer, currently 18 <br> years old and passionate about programming 🧡</p>
+
+<br><!--spacing-->
+
 <!-- FOCO... -->
-<h3 align="center">A beginner developer focused on web / mobile</h3>
+<h3 align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    A beginner developer focused on web / mobile
+</h3>
 
 <br><!--spacing-->
 
@@ -29,8 +34,11 @@ I'm Matheus Vidigal, front-end developer, currently 18 years old and passionate 
 <br><!--spacing-->
 
 <!-- TECNOLOGIAS -->
-<h3 align="center">My Development Stack</h3>
-<p align="center"><br>&nbsp;
+<h3 align="right">
+    My Development Stack
+    &nbsp;
+</h3>
+<p align="right"><br>&nbsp;
     <code><img src=".github/tecSvg/android.svg"   alt="Android"   height="16"/></code>&nbsp;
     <code><img src=".github/tecSvg/java.svg"      alt="Java"      height="16"/></code>&nbsp;
     <code><img src=".github/tecSvg/cPlusPlus.svg" alt="cPlusPlus" height="16"/></code>&nbsp;
