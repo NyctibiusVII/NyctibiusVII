@@ -3,11 +3,15 @@
 
 <!-- APRESENTAÇÃO -->
 <h1 align="right">Hi, nice to meet you
-    <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' alt="Mascote Github" height="50">
+    <img align="right" src='.github/bat.gif' alt="Morcego" width="50">
 </h1>
 <p align="right">Welcome to my page!
     <br>
-    I'm Matheus Vidigal, front-end developer, currently 18 years old and passionate about programming 🧡
+    I'm Matheus Vidigal, front-end developer, currently 18 years old and passionate about programming.
+    <br>
+    <img src='.github/heart.gif' alt="Coração-1 explodindo" width="70">
+    <img src='.github/heart.gif' alt="Coração-2 explodindo" width="70">
+    <img src='.github/heart.gif' alt="Coração-3 explodindo" width="70">
 </p>
 
 
@@ -18,6 +22,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     A Beginner Developer Focused On Web / Mobile
 </h3>
+
+<img align="right" src='.github/cat.gif' alt="Morcego" width="20%">
 
 <!-- SOBRE MIM -->
 - 🌱 I am currently studying JS and CSS at [Rocketseat](https://app.rocketseat.com.br/me/matheus-vidigal-nyctibius) and [Digital Innovation One](https://web.digitalinnovation.one/users/matheus_dev_07?tab=achievements)
@@ -31,7 +37,7 @@
 - ⚡ Fun fact i'm a big fan of One Piece
 
 <br><!--spacing-->
-
+<img align="left" src='.github/catBallon.gif' alt="Gato flutuando" width="50">
 <!-- TECNOLOGIAS -->
 <h3 align="right">
     My Development Stack
