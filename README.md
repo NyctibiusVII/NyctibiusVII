@@ -14,7 +14,6 @@
     <img src='.github/heart.gif' alt="Coração-3 explodindo" width="70">
 </p>
 
-
 <br><br><br><!--spacing-3x-->
 
 <!-- FOCO... -->
@@ -77,17 +76,32 @@
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=NyctibiusVII&show_icons=true&custom_title=🦊%20Matheus%20Vidigal's%20GitHub%20Stats&title_color=ff441e&text_color=fd5634&icon_color=f74716&bg_color=282a36&hide_border=true&count_private=true&hide=issues" alt="My GitHub stats"/>
     <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyctibiusVII&custom_title=🍧%20Most%20Used%20Languages&title_color=ff79c6&text_color=ff79c6&icon_color=f74716&bg_color=282a36&hide_border=true&line_height=9&layout=compact" alt="Linguagens de programação mais usadas"/>
 </p>
-<!-- #282a36 | #fbfbfb
-     #ff79c6 | #6651ab
-     #ff441e | #ff3108 -->
-
 
 <!-- API | POINTS -->
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=NyctibiusVII&theme=dracula&margin-w=7&hide_border=true" alt="NyctibiusVII's points"/>
 </p>
+<!--
+    #282a36 | #0d1117 (Dracula    |     Github)
+    #ffffff | #fbfbfb (White      |     Shadow)
+    #ff79c6 | #6651ab (Bubble gum |     Github)
+    #ff441e | #ff3108 (Orange     | DarkOrange)
+-->
 
+<!--line-->
 ---
+
+<!-- MAIS INFORMAÇÕES -->
+<details align="center">
+    <summary>More information:</summary>
+    <img align="left" src="https://activity-graph.herokuapp.com/graph?username=NyctibiusVII&bg_color=000&color=0f0&line=0f0&point=fff&area=false&hide_border=true" alt="NyctibiusVII's Activity graph" width="60%"/>
+    <p align="right">
+        <p align="center">
+            <img src="https://profile-counter.glitch.me/NyctibiusVII/count.svg" width="30%"/>
+            <img src="http://github-readme-streak-stats.herokuapp.com?user=NyctibiusVII&hide_border=true&background=000000&border=FFFFFF&stroke=FFFFFF&sideNums=00FF00&sideLabels=00FF00&dates=FFFFFF&ring=00FF00&fire=FFFFFF&currStreakNum=00FF00&currStreakLabel=00FF00" alt="NyctibiusVII's Streak stats" width="30%"/>
+        </p>
+    </p>
+</details>
 
 <!-- REDES SOCIAIS -->
 <p align="center">
