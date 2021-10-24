@@ -25,7 +25,7 @@
 <img align="right" src='.github/cat.gif' alt="Morcego" width="20%">
 
 <!-- SOBRE MIM -->
-- 🌱 I am currently studying JS, TS, CSS, ReactJS with NextJS at [Rocketseat](https://app.rocketseat.com.br/me/matheus-vidigal-nyctibius) and [Digital Innovation One](https://web.digitalinnovation.one/users/matheus_dev_07?tab=achievements)
+- 🌱 I am currently studying JS, TS, CSS, ReactJS with NextJS at [Rocketseat](https://app.rocketseat.com.br/me/matheus-vidigal-nyctibius)
 
 - 👨🏻‍💻 I’m looking to collaborate on web projects
 
