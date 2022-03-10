@@ -7,7 +7,7 @@
 </h1>
 <p align="right">Welcome to my page!
     <br>
-    I'm Matheus Vidigal, front-end developer, currently 19 years old and passionate about programming.
+    I'm Matheus Vidigal, front-end developer, currently 20 years old and passionate about programming.
     <br>
     <img src=".github/heart.gif" alt="Heart exploding 1" width="70">
     <img src=".github/heart.gif" alt="Heart exploding 2" width="70">
@@ -19,12 +19,14 @@
 <!-- FOCUSED... -->
 <h3 align="left">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    A Programmer Focused On Web Development
+    A Programmer Focused On Full-Stack Web Development
 </h3>
 
 <img align="right" src=".github/cat.gif" alt="Cat" width="20%">
 
 <!-- ABOUT ME -->
+- 🎓 Studying Systems Analysis and Development at UniAmérica Descomplica University Center
+
 - 🌱 I am currently studying JS, TS, SCSS, ReactJS with NextJS at [Rocketseat](https://app.rocketseat.com.br/me/matheus-vidigal-nyctibius)
 
 - 👨🏻‍💻 I’m looking to collaborate on web projects
@@ -35,7 +37,7 @@
 
 - ⚡ Fun fact i"m a big fan of One Piece
 
-- 📄 My [CV Online](https://cv-nyctibiusvii.vercel.app)
+- 📄 [My CV Online](https://cv-nyctibiusvii.vercel.app)
 
 <br><!--spacing-->
 
