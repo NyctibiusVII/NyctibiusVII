@@ -98,11 +98,11 @@
 <!-- MORE INFO -->
 <details align="center">
     <summary>More information:</summary>
-    <img align="left" src="https://github-readme-activity-graph.cyclic.app/graph?username=NyctibiusVII&bg_color=000&color=0f0&line=0f0&point=fff&area=false&hide_border=true" alt="NyctibiusVII"s Activity graph" width="60%"/>
+    <img align="left" src="https://github-readme-activity-graph.cyclic.app/graph?username=NyctibiusVII&bg_color=000&color=0f0&line=0f0&point=fff&area=false&hide_border=true" alt="NyctibiusVII"s Activity graph" width="50%"/>
     <p align="right">
         <p align="center">
-            <img src="https://profile-counter.glitch.me/NyctibiusVII/count.svg" width="30%"/>
-            <img src="http://github-readme-streak-stats.herokuapp.com?user=NyctibiusVII&hide_border=true&background=000000&border=FFFFFF&stroke=FFFFFF&sideNums=00FF00&sideLabels=00FF00&dates=FFFFFF&ring=00FF00&fire=FFFFFF&currStreakNum=00FF00&currStreakLabel=00FF00" alt="NyctibiusVII"s Streak stats" width="30%"/>
+            <img src="https://profile-counter.glitch.me/NyctibiusVII/count.svg" width="25%"/>
+            <img src="http://github-readme-streak-stats.herokuapp.com?user=NyctibiusVII&hide_border=true&background=000000&border=FFFFFF&stroke=FFFFFF&sideNums=00FF00&sideLabels=00FF00&dates=FFFFFF&ring=00FF00&fire=FFFFFF&currStreakNum=00FF00&currStreakLabel=00FF00" alt="NyctibiusVII's Streak stats" width="25%"/>
         </p>
     </p>
 </details>
