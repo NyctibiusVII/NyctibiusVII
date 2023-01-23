@@ -98,7 +98,7 @@
 <!-- MORE INFO -->
 <details align="center">
     <summary>More information:</summary>
-    <img align="left" src="https://activity-graph.herokuapp.com/graph?username=NyctibiusVII&bg_color=000&color=0f0&line=0f0&point=fff&area=false&hide_border=true" alt="NyctibiusVII"s Activity graph" width="60%"/>
+    <img align="left" src="https://github-readme-activity-graph.cyclic.app/graph?username=NyctibiusVII&bg_color=000&color=0f0&line=0f0&point=fff&area=false&hide_border=true" alt="NyctibiusVII"s Activity graph" width="60%"/>
     <p align="right">
         <p align="center">
             <img src="https://profile-counter.glitch.me/NyctibiusVII/count.svg" width="30%"/>
