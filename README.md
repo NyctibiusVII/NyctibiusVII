@@ -7,7 +7,7 @@
 </h1>
 <p align="right">Welcome to my page!
     <br>
-    I'm Matheus Vidigal, front-end developer, currently 20 years old and passionate about programming.
+    I'm Matheus Vidigal, front-end developer, currently 21 years old and passionate about programming.
     <br>
     <img src=".github/heart.gif" alt="Heart exploding 1" width="70">
     <img src=".github/heart.gif" alt="Heart exploding 2" width="70">
