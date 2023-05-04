@@ -27,7 +27,7 @@
 <!-- ABOUT ME -->
 - 🎓 Studying Systems Analysis and Development at UniAmérica Descomplica University Center
 
-- 🌱 I am currently studying JS, TS, SCSS, ReactJS with NextJS at [Rocketseat](https://app.rocketseat.com.br/me/matheus-vidigal-nyctibius)
+- 🌱 I am currently studying JS, TS, SCSS, Tailwindcss, ReactJS with NextJS at [Rocketseat](https://app.rocketseat.com.br/me/matheus-vidigal-nyctibius) and [Curso.dev](https://curso.dev) by Filipe Deschamps
 
 - 👨🏻‍💻 I’m looking to collaborate on web projects
 
@@ -77,8 +77,8 @@
 
 <!-- API | MYGITHUB -->
 <p align="center">
-    <img align="center" src="https://github-readme-stats-nyctibiusvii.vercel.app/api?username=NyctibiusVII&show_icons=true&custom_title=🦊%20Matheus%20Vidigal's%20GitHub%20Stats&title_color=ff441e&text_color=fd5634&icon_color=f74716&bg_color=282a36&hide_border=true&count_private=true&hide=issues" alt="My GitHub stats" width="55%"/>
-    <img align="center" src="https://github-readme-stats-nyctibiusvii.vercel.app/api/top-langs/?username=NyctibiusVII&custom_title=🍧%20Most%20Used%20Languages&title_color=ff79c6&text_color=ff79c6&icon_color=f74716&bg_color=282a36&hide_border=true&line_height=9&layout=compact" alt="Most used programming languages" width="40%"/>
+    <img align="center" src="https://github-readme-stats-seven-bay.vercel.app/api?username=NyctibiusVII&show_icons=true&custom_title=🦊%20Matheus%20Vidigal's%20GitHub%20Stats&title_color=ff441e&text_color=fd5634&icon_color=f74716&bg_color=282a36&hide_border=true&count_private=true&hide=issues" alt="My GitHub stats" width="55%"/>
+    <img align="center" src="https://github-readme-stats-seven-bay.vercel.app/api/top-langs/?username=NyctibiusVII&custom_title=🍧%20Most%20Used%20Languages&title_color=ff79c6&text_color=ff79c6&icon_color=f74716&bg_color=282a36&hide_border=true&line_height=9&layout=compact" alt="Most used programming languages" width="40%"/>
 </p>
 
 <!-- API | POINTS -->
