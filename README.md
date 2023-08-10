@@ -101,14 +101,14 @@
 <p align="center">
     <picture>
         <source
-            srcset="https://github-profile-trophy.vercel.app?username=NyctibiusVII&title=MultiLanguage,Followers,Stars,PullRequest,Repositories,Commits,Reviews&theme=dracula&row=1&column=7&margin-w=7&margin-h=7&no-frame=true"
+            srcset="https://github-profile-trophy.vercel.app?username=NyctibiusVII&theme=dracula&row=1&column=7&margin-w=7&margin-h=7&no-frame=true"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-profile-trophy.vercel.app?username=NyctibiusVII&title=MultiLanguage,Followers,Stars,PullRequest,Repositories,Commits,Reviews&theme=flat&row=1&column=7&margin-w=7&margin-h=7&no-frame=true"
+            srcset="https://github-profile-trophy.vercel.app?username=NyctibiusVII&theme=flat&row=1&column=7&margin-w=7&margin-h=7&no-frame=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-profile-trophy.vercel.app?username=NyctibiusVII"/>
+        <img src="https://github-profile-trophy.vercel.app?username=NyctibiusVII&title=MultiLanguage,Followers,Stars,PullRequest,Repositories,Commits,Reviews&row=1&column=7&margin-w=7&margin-h=7&no-frame=true"/>
     </picture>
 </p>
 <!--
@@ -129,7 +129,17 @@
     <p align="right">
         <p align="center">
             <img src="https://profile-counter.glitch.me/NyctibiusVII/count.svg" width="30%"/>
-            <img src="http://github-readme-streak-stats.herokuapp.com?user=NyctibiusVII&theme=github-dark" width="30%"/>
+            <picture>
+                <source
+                    srcset="http://github-readme-streak-stats.herokuapp.com?user=NyctibiusVII&theme=github-dark"
+                    media="(prefers-color-scheme: dark)"
+                />
+                <source
+                    srcset="http://github-readme-streak-stats.herokuapp.com?user=NyctibiusVII&theme=github-light"
+                    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                />
+                <img src="http://github-readme-streak-stats.herokuapp.com?user=NyctibiusVII" width="30%"/>
+            </picture>
         </p>
     </p>
 </details>
