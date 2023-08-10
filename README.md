@@ -75,7 +75,7 @@
 <p align="center">
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=NyctibiusVII&custom_title=🍊%20Matheus%20Vidigal's%20GitHub%20Stats&show_icons=true&count_private=true&hide=issues&theme=dark&title_color=ff441e&text_color=fd5634&icon_color=f74716&bg_color=0d1117&border_color=fd5634"
+            srcset="https://github-readme-stats.vercel.app/api?username=NyctibiusVII&custom_title=🍊%20Matheus%20Vidigal's%20GitHub%20Stats&show_icons=true&count_private=true&hide=issues&theme=dark&title_color=ff441e&text_color=fd5634&icon_color=f74716&bg_color=ffffff00&border_color=fd5634"
             media="(prefers-color-scheme: dark)"
         />
         <source
@@ -86,7 +86,7 @@
     </picture>
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=NyctibiusVII&line_height=9&layout=compact&custom_title=🍧%20Most%20Used%20Languages&theme=dark&title_color=ff79c6&text_color=ff79c6&icon_color=f74716&bg_color=0d1117&border_color=ff79c6"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=NyctibiusVII&line_height=9&layout=compact&custom_title=🍧%20Most%20Used%20Languages&theme=dark&title_color=ff79c6&text_color=ff79c6&icon_color=f74716&bg_color=ffffff00&border_color=ff79c6"
             media="(prefers-color-scheme: dark)"
         />
         <source
