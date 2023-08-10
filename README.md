@@ -27,7 +27,7 @@
 <!-- ABOUT ME -->
 - 🎓 Studying Systems Analysis and Development at UniAmérica Descomplica University Center
 
-- 🌱 I am currently studying JS, TS, SCSS, Tailwindcss, ReactJS with NextJS at [Rocketseat](https://app.rocketseat.com.br/me/matheus-vidigal-nyctibius) and [Curso.dev](https://curso.dev) by Filipe Deschamps
+- 🌱 I'm currently improving my knowledge in JS, TS, SCSS, Tailwindcss, ReactJS with NextJS at [Rocketseat](https://app.rocketseat.com.br/me/matheus-vidigal-nyctibius) and [Curso.dev](https://curso.dev) by Filipe Deschamps
 
 - 👨🏻‍💻 I’m looking to collaborate on web projects
 
@@ -48,28 +48,24 @@
     &nbsp;
 </h3>
 <p align="right"><br>&nbsp;
-    <code><img src=".github/tecSvg/android.svg"    alt="Android"    height="16"/></code>&nbsp;
-    <code><img src=".github/tecSvg/java.svg"       alt="Java"       height="16"/></code>&nbsp;
-    <code><img src=".github/tecSvg/cPlusPlus.svg"  alt="cPlusPlus"  height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/html5.svg"       alt="Html5"       width="16" height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/css3.svg"        alt="Css3"        width="16" height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/sass.svg"        alt="Sass"        width="16" height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/tailwindcss.svg" alt="Tailwindcss" width="16" height="16"/></code>&nbsp;
     |&nbsp;
-    <code><img src=".github/tecSvg/html5.svg"      alt="Html5"      height="16"/></code>&nbsp;
-    <code><img src=".github/tecSvg/css3.svg"       alt="Css3"       height="16"/></code>&nbsp;
-    <code><img src=".github/tecSvg/sass.svg"       alt="Sass"       height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/javascript.svg"  alt="Javascript"  width="16" height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/typescript.svg"  alt="Typescript"  width="16" height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/reactJS.svg"     alt="ReactJS"     width="16" height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/nextJS.svg"      alt="NextJS"      width="16" height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/nodeJS.svg"      alt="NodeJS"      width="16" height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/mongodb.svg"     alt="Mongodb"     width="16" height="16"/></code>&nbsp;
     |&nbsp;
-    <code><img src=".github/tecSvg/javascript.svg" alt="Javascript" height="16"/></code>&nbsp;
-    <code><img src=".github/tecSvg/typescript.svg" alt="Typescript" height="16"/></code>&nbsp;
-    <code><img src=".github/tecSvg/reactJS.svg"    alt="ReactJS"    height="16"/></code>&nbsp;
-    <code><img src=".github/tecSvg/nextJS.svg"     alt="NextJS"     height="16"/></code>&nbsp;
-    <code><img src=".github/tecSvg/nodeJS.svg"     alt="NodeJS"     height="16"/></code>&nbsp;
-    |&nbsp;
-    <code><img src=".github/tecSvg/vercel.svg"     alt="Vercel"     height="16"/></code>&nbsp;
-    <code><img src=".github/tecSvg/github.svg"     alt="GitHub"     height="16"/></code>&nbsp;
-    <code><img src=".github/tecSvg/git.svg"        alt="Git"        height="16"/></code>&nbsp;
-    <code><img src=".github/tecSvg/gitlab.svg"     alt="Gitlab"     height="16"/></code>&nbsp;
-    <code><img src=".github/tecSvg/heroku.svg"     alt="Heroku"     height="16"/></code>&nbsp;
-    |&nbsp;
-    <code><img src=".github/tecSvg/photoshop.svg"  alt="Photoshop"  height="16"/></code>&nbsp;
-    <code><img src=".github/tecSvg/trello.svg"     alt="Trello"     height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/vercel.svg"      alt="Vercel"      width="16" height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/github.svg"      alt="GitHub"      width="16" height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/git.svg"         alt="Git"         width="16" height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/heroku.svg"      alt="Heroku"      width="16" height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/figma.svg"       alt="Figma"       width="16" height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/photoshop.svg"   alt="Photoshop"   width="16" height="16"/></code>&nbsp;
     <!-- https://worldvectorlogo.com/ -->
 </p>
 
@@ -77,13 +73,43 @@
 
 <!-- API | MYGITHUB -->
 <p align="center">
-    <img align="center" src="https://github-readme-stats-seven-bay.vercel.app/api?username=NyctibiusVII&show_icons=true&custom_title=🦊%20Matheus%20Vidigal's%20GitHub%20Stats&title_color=ff441e&text_color=fd5634&icon_color=f74716&bg_color=282a36&hide_border=true&count_private=true&hide=issues" alt="My GitHub stats" width="55%"/>
-    <img align="center" src="https://github-readme-stats-seven-bay.vercel.app/api/top-langs/?username=NyctibiusVII&custom_title=🍧%20Most%20Used%20Languages&title_color=ff79c6&text_color=ff79c6&icon_color=f74716&bg_color=282a36&hide_border=true&line_height=9&layout=compact" alt="Most used programming languages" width="40%"/>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=NyctibiusVII&custom_title=🍊%20Matheus%20Vidigal's%20GitHub%20Stats&show_icons=true&count_private=true&hide=issues&theme=dark&title_color=ff441e&text_color=fd5634&icon_color=f74716&bg_color=0d1117&border_color=fd5634"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=NyctibiusVII&custom_title=🍊%20Matheus%20Vidigal's%20GitHub%20Stats&show_icons=true&count_private=true&hide=issues&title_color=ff441e&text_color=0d1117&icon_color=f74716&bg_color=ffffff&border_color=282a36"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=NyctibiusVII&count_private=true&show_icons=true" width="58%"/>
+    </picture>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=NyctibiusVII&line_height=9&layout=compact&custom_title=🍧%20Most%20Used%20Languages&theme=dark&title_color=ff79c6&text_color=ff79c6&icon_color=f74716&bg_color=0d1117&border_color=ff79c6"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=NyctibiusVII&line_height=9&layout=compact&custom_title=🍧%20Most%20Used%20Languages&title_color=ff79c6&text_color=0d1117&icon_color=f74716&bg_color=ffffff&border_color=282a36"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NyctibiusVII&line_height=9&layout=compact" width="38%"/>
+    </picture>
 </p>
 
 <!-- API | POINTS -->
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=NyctibiusVII&theme=dracula&column=7&margin-w=7&margin-h=7&no-frame=true" alt="NyctibiusVII's points"/>
+    <picture>
+        <source
+            srcset="https://github-profile-trophy.vercel.app?username=NyctibiusVII&title=MultiLanguage,Followers,Stars,PullRequest,Repositories,Commits,Reviews&theme=dracula&row=1&column=7&margin-w=7&margin-h=7&no-frame=true"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-profile-trophy.vercel.app?username=NyctibiusVII&title=MultiLanguage,Followers,Stars,PullRequest,Repositories,Commits,Reviews&theme=flat&row=1&column=7&margin-w=7&margin-h=7&no-frame=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-profile-trophy.vercel.app?username=NyctibiusVII"/>
+    </picture>
 </p>
 <!--
     #282a36 | #0d1117 (Dracula    |     Github)
@@ -98,31 +124,26 @@
 <!-- MORE INFO -->
 <details align="center">
     <summary>More information:</summary>
-    <img align="left" src="https://github-readme-activity-graph.cyclic.app/graph?username=NyctibiusVII&bg_color=000&color=0f0&line=0f0&point=fff&area=false&hide_border=true" alt="NyctibiusVII"s Activity graph" width="50%"/>
+    <br><!--spacing-->
+    <img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=NyctibiusVII&theme=github-compact&area=true&hide_title&custom_title=🐱‍👤%20Matheus%20Vidigal's%20Contribution%20Graph" width="60%"/>
     <p align="right">
         <p align="center">
-            <img src="https://profile-counter.glitch.me/NyctibiusVII/count.svg" width="25%"/>
-            <img src="http://github-readme-streak-stats.herokuapp.com?user=NyctibiusVII&hide_border=true&background=000000&border=FFFFFF&stroke=FFFFFF&sideNums=00FF00&sideLabels=00FF00&dates=FFFFFF&ring=00FF00&fire=FFFFFF&currStreakNum=00FF00&currStreakLabel=00FF00" alt="NyctibiusVII's Streak stats" width="25%"/>
+            <img src="https://profile-counter.glitch.me/NyctibiusVII/count.svg" width="30%"/>
+            <img src="http://github-readme-streak-stats.herokuapp.com?user=NyctibiusVII&theme=github-dark" width="30%"/>
         </p>
     </p>
 </details>
 
 <!-- REDES SOCIAIS -->
 <p align="center">
-    <a href="https://twitter.com/NyctibiusVII"                          target="blank">
-        <img src=".github/socialSvg/twitter.svg"                        alt="Twitter"       height="20"/>
-    </a>
-    <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii/" target="blank">
-        <img src=".github/socialSvg/linkedin.svg"                       alt="Linkedin"      height="20"/>
-    </a>
-    <a href="https://pt.stackoverflow.com/users/155001/matheus-vidigal" target="blank">
-        <img src=".github/socialSvg/stack-overflow.svg"                 alt="StackOverflow" height="20"/>
-    </a>
-    <a href="https://www.instagram.com/nyctibius_vii/"                  target="blank">
-        <img src=".github/socialSvg/instagram.svg"                      alt="Instagram"     height="20"/>
-    </a>
-    <a href="https://discord.gg/DMuCj2s"                                target="blank">
-        <img src=".github/socialSvg/discord.svg"                        alt="Discord"       height="20"/>
+    <a href="https://twitter.com/NyctibiusVII" target="blank">
+        <img src=".github/socialSvg/twitter.svg" alt="Twitter" height="20"/>
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii" target="blank">
+        <img src=".github/socialSvg/linkedin.svg" alt="Linkedin" height="20"/>
+    </a>&nbsp;
+    <a href="https://www.instagram.com/nyctibius_vii" target="blank">
+        <img src=".github/socialSvg/instagram.svg" alt="Instagram" height="20"/>
     </a>
 </p>
 
