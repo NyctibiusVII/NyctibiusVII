@@ -37,8 +37,6 @@
 
 - ⚡ Fun fact i"m a big fan of One Piece
 
-- 📄 [My CV Online](https://cv-nyctibiusvii.vercel.app)
-
 <br><!--spacing-->
 
 <img align="left" src=".github/catBallon.gif" alt="Cat floating" width="50">
